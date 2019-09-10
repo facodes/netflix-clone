@@ -1,6 +1,6 @@
 # Netflix clone
 
-Website clone from [netflix](netflix.com) homepage on Jul, 27
+Website clone from [netflix](https://www.netflix.com) homepage on Jul, 27
 
 ## [Live Demo](https://fxnetflixclone.netlify.com/)
 
