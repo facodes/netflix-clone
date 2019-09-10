@@ -1,4 +1,5 @@
-# Netflix clone 
-Clone of the netflix home page
+# Netflix clone
 
-[demo surge.sh](http://flx86-netflix-clone.surge.sh/)
+Website clone from [netflix](netflix.com) homepage on Jul, 27
+
+![thumnail.png](thumbnail.png)
